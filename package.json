@@ -1,5 +1,5 @@
 {
-  "name": "@imqa/atos",
+  "name": "@dr-coton/atos",
   "version": "1.0.0",
   "description": "Node.js에서 사용할 수 있는 Atos 라이브러리 @imqa/atos",
   "main": "index.js",
